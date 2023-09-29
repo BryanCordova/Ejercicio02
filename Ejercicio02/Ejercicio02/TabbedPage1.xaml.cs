@@ -15,7 +15,8 @@ namespace Ejercicio02
         public TabbedPage1()
         {
             InitializeComponent();
-            btnClose.Clicked += delegate { }
+            btnClose.Clicked += delegate { } 
+            //primer Commit
         }
     }
 }
